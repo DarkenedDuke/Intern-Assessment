@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.6.0",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "react-scripts": "^0.0.0"
+  },
+  "name": "intern-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
