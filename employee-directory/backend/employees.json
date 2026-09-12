@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Dela Cruz",
+    "department": "IT",
+    "position": "Junior Developer",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "department": "HR",
+    "position": "Recruiter",
+    "status": "Inactive"
+  }
+]

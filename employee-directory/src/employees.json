@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Juan Dela Cruz", "department": "IT", "position": "Junior Developer", "status": "Active" },
+  { "id": 2, "name": "Maria Santos", "department": "HR", "position": "HR Assistant", "status": "Active" },
+  { "id": 3, "name": "Pedro Reyes", "department": "Finance", "position": "Accountant", "status": "Inactive" }
+]
